@@ -1,0 +1,26 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://localhost:5173",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "en-US"
+        },
+        {
+          "name": "token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OWEzNWVhYmZjYzRkNmEwNDY3ZGU1YjYiLCJpYXQiOjE3Nzc3MzUxMzcsImV4cCI6MTc3Nzc0NTkzN30.zJrkSRrClPMwoxeGNmVZQ3VgJRfOFV3tvAMGlF3_PIA"
+        },
+        {
+          "name": "color-mode",
+          "value": "light"
+        },
+        {
+          "name": "role",
+          "value": "undefined"
+        }
+      ]
+    }
+  ]
+}
